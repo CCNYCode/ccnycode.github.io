@@ -1,1 +1,1 @@
-# ccnycode.github.io
+A website to introduce what the CS Honors Mentoring program is about and the impact it has on students. 
