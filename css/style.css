@@ -95,7 +95,7 @@ HEADER
 ***********************************/
 
 .header{
-    background: url('../img/websitePic.png') no-repeat left center fixed;
+    background: url('../img/websitePic.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -734,7 +734,7 @@ Our History
 ************************************
 ***********************************/
 #service {
-  background: url('../img/history-bg.png') no-repeat fixed;
+  background: url('../img/history-bg.png');
   background-size: 100% 100%;
 }
 #service .commant {
